@@ -12,3 +12,10 @@ Technologies Used
 * React
 * TypeScript
 * CSS
+
+  ##Screenshots
+  ![Login Page](Login.png)
+  ![Admin dashboard](Admin%20dashboard.png)
+
+  
+  
